@@ -1,0 +1,23 @@
+{
+  "name": "torr",
+  "version": "1.0.0",
+  "description": "ToRR website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sithgear/torr.git"
+  },
+  "author": "Ron Regan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sithgear/torr/issues"
+  },
+  "homepage": "https://github.com/Sithgear/torr#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "npm": "^6.4.1"
+  }
+}
